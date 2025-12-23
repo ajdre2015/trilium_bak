@@ -1,0 +1,335 @@
+23:23:40.845 Generated session secret
+23:23:41.245 
+ _____     _ _ _
+|_   _| __(_) (_)_   _ _ __ ___   | \ | | ___ | |_ ___  ___
+  | || '__| | | | | | | '_ ` _ \  |  \| |/ _ \| __/ _ \/ __|
+  | || |  | | | | |_| | | | | | | | |\  | (_) | ||  __/\__ \
+  |_||_|  |_|_|_|\__,_|_| |_| |_| |_| \_|\___/ \__\___||___/ 0.99.5
+
+23:23:41.245 📦 Versions:    app=0.99.5 db=233 sync=36 clipper=1.0
+23:23:41.246 🔧 Build:       2025-11-11 20:25:05 (25563c6687)
+23:23:41.246 📂 Data dir:    /home/node/trilium-data
+23:23:41.246 ⏰ UTC time:    2025-12-04 07:23:39
+23:23:41.255 💻 CPU:         Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz (2-core @ 0 Mhz)
+23:23:41.256 💾 DB size:     4 KiB
+23:23:41.256 
+23:23:41.264 DB not initialized, please visit setup page - http://[your-server-host]:8080 to see instructions on how to initialize Trilium.
+23:23:41.368 Trusted reverse proxy: false
+23:23:41.370 App HTTP server starting up at port 8080
+23:23:41.391 Listening on port 8080
+23:23:44.310 Slow 200 GET /api/health-check with 15 bytes took 16ms
+23:24:14.606 200 GET /api/health-check with 15 bytes took 1ms
+23:24:44.890 200 GET /api/health-check with 15 bytes took 3ms
+23:25:15.203 200 GET /api/health-check with 15 bytes took 2ms
+23:25:45.496 200 GET /api/health-check with 15 bytes took 2ms
+23:26:15.808 200 GET /api/health-check with 15 bytes took 2ms
+23:26:46.095 200 GET /api/health-check with 15 bytes took 1ms
+23:27:16.399 200 GET /api/health-check with 15 bytes took 2ms
+23:28:30.577 
+ _____     _ _ _
+|_   _| __(_) (_)_   _ _ __ ___   | \ | | ___ | |_ ___  ___
+  | || '__| | | | | | | '_ ` _ \  |  \| |/ _ \| __/ _ \/ __|
+  | || |  | | | | |_| | | | | | | | |\  | (_) | ||  __/\__ \
+  |_||_|  |_|_|_|\__,_|_| |_| |_| |_| \_|\___/ \__\___||___/ 0.99.5
+
+23:28:30.579 📦 Versions:    app=0.99.5 db=233 sync=36 clipper=1.0
+23:28:30.579 🔧 Build:       2025-11-11 20:25:05 (25563c6687)
+23:28:30.579 📂 Data dir:    /home/node/trilium-data
+23:28:30.580 ⏰ UTC time:    2025-12-04 07:28:29
+23:28:30.588 💻 CPU:         Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz (2-core @ 0 Mhz)
+23:28:30.589 💾 DB size:     2.6 MiB
+23:28:30.589 
+23:28:30.631 Becca (note cache) load took 36ms
+23:28:30.664 Created option "centerContent" with default value "false"
+23:28:30.665 Created option "keyboardShortcutsOpenTodayNote" with default value "[]"
+23:28:30.776 Created new note '_commandPalette', branch '_lbAvailableLaunchers__commandPalette' of type 'launcher', mime ''
+23:28:30.787 Created new note '_zenMode', branch '_lbAvailableLaunchers__zenMode' of type 'launcher', mime ''
+23:28:30.796 Updating attribute _help_poXkQfguuA0U_liconClass from "bx bx-file" to "bx bx-desktop"
+23:28:30.800 Created new note '_help_Rp0q8bSP6Ayl', branch '_help_poXkQfguuA0U__help_Rp0q8bSP6Ayl' of type 'doc', mime ''
+23:28:30.808 Created new note '_help_Un4wj2Mak2Ky', branch '_help_poXkQfguuA0U__help_Un4wj2Mak2Ky' of type 'doc', mime ''
+23:28:30.810 Updating attribute _help_WOcw2SLH6tbX_liconClass from "bx bx-file" to "bx bx-server"
+23:28:30.815 Creating missing branch for note _help_Un4wj2Mak2Ky under parent _help_WOcw2SLH6tbX.
+23:28:30.818 Updating attribute _help_Un4wj2Mak2Ky_ldocName from "User Guide/User Guide/Installation & Setup/Desktop Installation/Nix flake" to "User Guide/User Guide/Installation & Setup/Server Installation/Nix flake.clone"
+23:28:30.819 Updating attribute _help_Un4wj2Mak2Ky_liconClass from "bx bxl-tux" to "bx bx-file"
+23:28:30.823 Created new note '_help_yeEaYqosGLSh', branch '_help_WOcw2SLH6tbX__help_yeEaYqosGLSh' of type 'doc', mime ''
+23:28:30.829 Created new note '_help_iGTnKjubbXkA', branch '_help_WOcw2SLH6tbX__help_iGTnKjubbXkA' of type 'doc', mime ''
+23:28:30.832 Updating attribute _help_MtPxeAWVAzMg_liconClass from "bx bx-file" to "bx bx-paperclip"
+23:28:30.834 Updating attribute _help_n1lujUxCwipy_liconClass from "bx bx-file" to "bx bx-up-arrow-alt"
+23:28:30.835 Updating attribute _help_ODY7qQn5m2FT_liconClass from "bx bx-file" to "bx bx-hdd"
+23:28:30.838 Updating attribute _help_ZjLYv08Rp3qC_ldocName from "User Guide/User Guide/Basic Concepts and Features/Navigation/Quick edit.clone" to "User Guide/User Guide/Basic Concepts and Features/UI Elements/Quick edit"
+23:28:30.842 Updating attribute _help_ZjLYv08Rp3qC_ldocName from "User Guide/User Guide/Basic Concepts and Features/UI Elements/Quick edit" to "User Guide/User Guide/Basic Concepts and Features/Navigation/Quick edit.clone"
+23:28:30.846 Updating attribute _help_syuSEKf2rUGr_liconClass from "bx bx-file" to "bx bx-window-open"
+23:28:30.847 Updating attribute _help_GnhlmrATVqcH_liconClass from "bx bx-file" to "bx bx-window-open"
+23:28:30.854 Created new note '_help_WWgeUaBb7UfC', branch '_help_s1aBHPd79XYj__help_WWgeUaBb7UfC' of type 'webView', mime ''
+23:28:30.856 Updating attribute _help_W8vYD3Q1zjCR_liconClass from "bx bx-file" to "bx bx-file-blank"
+23:28:30.857 Creating missing branch for note _help_GTwFsgaA0lCt under parent _help.
+23:28:30.859 Removing unexpected branch for note '_help_GTwFsgaA0lCt' from parent '_help_KSZ04uQ2D1St'
+23:28:30.859 Marking branches _help_KSZ04uQ2D1St__help_GTwFsgaA0lCt as deleted
+23:28:30.860 Updating attribute _help_GTwFsgaA0lCt_ldocName from "User Guide/User Guide/Note Types/Collections" to "User Guide/User Guide/Collections"
+23:28:30.862 Updating attribute _help_xWbu3jpNWapp_ldocName from "User Guide/User Guide/Note Types/Collections/Calendar View" to "User Guide/User Guide/Collections/Calendar"
+23:28:30.864 Updating attribute _help_2FvYrpmOXm29_ldocName from "User Guide/User Guide/Note Types/Collections/Table View" to "User Guide/User Guide/Collections/Table"
+23:28:30.866 Updating attribute _help_CtBQqbwXDx1w_ldocName from "User Guide/User Guide/Note Types/Collections/Board View" to "User Guide/User Guide/Collections/Kanban Board"
+23:28:30.868 Updating attribute _help_81SGnPGMk7Xc_ldocName from "User Guide/User Guide/Note Types/Collections/Geo Map View" to "User Guide/User Guide/Collections/Geo Map"
+23:28:30.870 Updating attribute _help_zP3PMqaG71Ct_ldocName from "User Guide/User Guide/Note Types/Collections/Presentation View" to "User Guide/User Guide/Collections/Presentation"
+23:28:30.871 Updating attribute _help_8QqnMzx393bx_ldocName from "User Guide/User Guide/Note Types/Collections/Grid View" to "User Guide/User Guide/Collections/Grid View"
+23:28:30.872 Updating attribute _help_mULW0Q3VojwY_ldocName from "User Guide/User Guide/Note Types/Collections/List View" to "User Guide/User Guide/Collections/List View"
+23:28:30.873 Updating attribute _help_wy8So3yZZlH9_liconClass from "bx bx-file" to "bx bx-bug-alt"
+23:28:30.874 Updating attribute _help_x59R8J8KV5Bp_liconClass from "bx bx-file" to "bx bx-low-vision"
+23:28:30.875 Updating attribute _help_vdlYGAcpXAgc_liconClass from "bx bx-file" to "bx bx-error"
+23:28:30.877 Updating attribute _help_s8alTXmpFR61_liconClass from "bx bx-file" to "bx bx-refresh"
+23:28:30.878 Updating attribute _help_7NfNr5pZpVKV_liconClass from "bx bx-file" to "bx bxs-color"
+23:28:30.879 Updating attribute _help_WFGzWeUK6arS_liconClass from "bx bx-file" to "bx bx-news"
+23:28:30.880 Updating attribute _help_WN5z4M8ASACJ_liconClass from "bx bx-file" to "bx bx-book-open"
+23:28:30.880 Updating attribute _help_AlhDUqhENtH7_liconClass from "bx bx-file" to "bx bxs-file-css"
+23:28:30.882 Updating attribute _help_Qjt68inQ2bRj_liconClass from "bx bx-file" to "bx bx-code"
+23:28:30.885 Created new note '_help_ycBFjKrrwE9p', branch '_help_R9pX4DGra2Vt__help_ycBFjKrrwE9p' of type 'doc', mime ''
+23:28:30.890 Created new note '_help_sLIJ6f1dkJYW', branch '_help_R9pX4DGra2Vt__help_sLIJ6f1dkJYW' of type 'doc', mime ''
+23:28:30.892 Updating attribute _help_5668rwcirq1t_liconClass from "bx bx-file" to "bx bxs-component"
+23:28:30.893 Updating attribute _help_R7abl2fc6Mxi_liconClass from "bx bx-file" to "bx bx-line-chart"
+23:28:30.904 Updating attribute _help_J5Ex1ZrMbyJ6_liconClass from "bx bx-file" to "bx bx-globe"
+23:28:30.905 Updating attribute _help_d3fAXQ2diepH_liconClass from "bx bx-file" to "bx bxs-file-plus"
+23:28:30.906 Updating attribute _help_pgxEVkzLl1OP_liconClass from "bx bx-file" to "bx bx-extension"
+23:28:30.908 Updating attribute _help_47ZrP6FNuoG8_liconClass from "bx bx-file" to "bx bx-edit-alt"
+23:28:30.909 Updating attribute _help_oyIAJ9PvvwHX_liconClass from "bx bx-file" to "bx bxs-edit"
+23:28:30.910 Updating attribute _help_Gzjqa934BdH4_liconClass from "bx bx-file" to "bx bx-cog"
+23:28:30.911 Updating attribute _help_c5xB8m4g2IY6_liconClass from "bx bx-file" to "bx bx-windows"
+23:28:30.911 Updating attribute _help_LWtBjFej3wX3_liconClass from "bx bx-file" to "bx bx-lock"
+23:28:30.912 Updating attribute _help_1YeN2MzFUluU_liconClass from "bx bxs-component" to "bx bx-pyramid"
+23:28:30.913 Updating attribute _help_N4IDkixaDG9C_liconClass from "bx bx-file" to "bx bx-sitemap"
+23:28:30.914 Updating attribute _help_H0mM1lTxF9JI_liconClass from "bx bx-file" to "bx bx-pen"
+23:28:30.915 Updating attribute _help_MQHyy2dIFgxS_liconClass from "bx bx-file" to "bx bx-map-alt"
+23:28:30.916 Updating attribute _help_0vTSyvhPTAOz_liconClass from "bx bx-folder" to "bx bxs-component"
+23:28:30.920 Created new note '_help_64ZTlUPgEPtW', branch '_help_tC7s2alapj8V__help_64ZTlUPgEPtW' of type 'doc', mime ''
+23:28:30.924 Created new note '_help_HAIOFBoYIIdO', branch '_help_tC7s2alapj8V__help_HAIOFBoYIIdO' of type 'doc', mime ''
+23:28:30.929 Created new note '_help_ZmT9ln8XJX2o', branch '_help_tC7s2alapj8V__help_ZmT9ln8XJX2o' of type 'doc', mime ''
+23:28:30.930 Creating missing branch for note _help_GBBMSlVSOIGP under parent _help.
+23:28:30.931 Removing unexpected branch for note '_help_GBBMSlVSOIGP' from parent '_help_LMAv4Uy3Wk6J'
+23:28:30.931 Marking branches _help_LMAv4Uy3Wk6J__help_GBBMSlVSOIGP as deleted
+23:28:30.933 Updating attribute _help_GBBMSlVSOIGP_ldocName from "User Guide/User Guide/AI/Introduction" to "User Guide/User Guide/AI"
+23:28:30.933 Updating attribute _help_GBBMSlVSOIGP_liconClass from "bx bx-file" to "bx bx-bot"
+23:28:30.934 Creating missing branch for note _help_WkM7gsEUyCXs under parent _help_GBBMSlVSOIGP.
+23:28:30.935 Removing unexpected branch for note '_help_WkM7gsEUyCXs' from parent '_help_LMAv4Uy3Wk6J'
+23:28:30.935 Marking branches _help_LMAv4Uy3Wk6J__help_WkM7gsEUyCXs as deleted
+23:28:30.936 Updating attribute _help_WkM7gsEUyCXs_ldocName from "User Guide/User Guide/AI/AI Provider Information" to "User Guide/User Guide/AI/Providers"
+23:28:30.937 Updating attribute _help_WkM7gsEUyCXs_liconClass from "bx bx-file" to "bx bx-select-multiple"
+23:28:30.938 Updating attribute _help_7EdTxPADv95W_liconClass from "bx bx-folder" to "bx bx-message-dots"
+23:28:30.939 Updating attribute _help_vvUCN7FDkq7G_ldocName from "User Guide/User Guide/AI/AI Provider Information/Ollama/Installing Ollama" to "User Guide/User Guide/AI/Providers/Ollama/Installing Ollama"
+23:28:30.940 Updating attribute _help_ZavFigBX9AwP_ldocName from "User Guide/User Guide/AI/AI Provider Information/OpenAI" to "User Guide/User Guide/AI/Providers/OpenAI"
+23:28:30.941 Updating attribute _help_ZavFigBX9AwP_liconClass from "bx bx-file" to "bx bx-message-dots"
+23:28:30.941 Updating attribute _help_e0lkirXEiSNc_ldocName from "User Guide/User Guide/AI/AI Provider Information/Anthropic" to "User Guide/User Guide/AI/Providers/Anthropic"
+23:28:30.942 Updating attribute _help_e0lkirXEiSNc_liconClass from "bx bx-file" to "bx bx-message-dots"
+23:28:30.943 Updating attribute _help_yIhgI5H7A2Sm_liconClass from "bx bx-file" to "bx bx-window"
+23:28:30.943 Creating missing branch for note _help_MgibgPcfeuGz under parent _help_yIhgI5H7A2Sm.
+23:28:30.944 Removing unexpected branch for note '_help_MgibgPcfeuGz' from parent '_help_CdNpE2pqjmI6'
+23:28:30.944 Marking branches _help_CdNpE2pqjmI6__help_MgibgPcfeuGz as deleted
+23:28:30.945 Updating attribute _help_MgibgPcfeuGz_ldocName from "User Guide/User Guide/Scripting/Custom Widgets" to "User Guide/User Guide/Scripting/Frontend Basics/Custom Widgets"
+23:28:30.946 Updating attribute _help_MgibgPcfeuGz_liconClass from "bx bx-file" to "bx bxs-widget"
+23:28:30.946 Updating attribute _help_YNxAqkI5Kg1M_ldocName from "User Guide/User Guide/Scripting/Custom Widgets/Word count widget" to "User Guide/User Guide/Scripting/Frontend Basics/Custom Widgets/Word count widget"
+23:28:30.947 Updating attribute _help_SynTBQiBsdYJ_ldocName from "User Guide/User Guide/Scripting/Custom Widgets/Widget Basics" to "User Guide/User Guide/Scripting/Frontend Basics/Custom Widgets/Widget Basics"
+23:28:30.951 Created new note '_help_M8IppdwVHSjG', branch '_help_MgibgPcfeuGz__help_M8IppdwVHSjG' of type 'doc', mime ''
+23:28:30.954 Created new note '_help_VqGQnnPGnqAU', branch '_help_MgibgPcfeuGz__help_VqGQnnPGnqAU' of type 'doc', mime ''
+23:28:30.956 Creating missing branch for note _help_es8OU2GuguFU under parent _help_yIhgI5H7A2Sm.
+23:28:30.957 Removing unexpected branch for note '_help_es8OU2GuguFU' from parent '_help_CdNpE2pqjmI6'
+23:28:30.957 Marking branches _help_CdNpE2pqjmI6__help_es8OU2GuguFU as deleted
+23:28:30.957 Updating attribute _help_es8OU2GuguFU_liconClass from "bx bx-folder" to "bx bx-code-alt"
+23:28:30.958 Updating attribute _help_TjLYAo3JMO8X_ldocName from "User Guide/User Guide/Scripting/Examples/New Task launcher button" to "User Guide/User Guide/Scripting/Frontend Basics/Examples/New Task launcher button"
+23:28:30.959 Updating attribute _help_7kZPMD0uFwkH_ldocName from "User Guide/User Guide/Scripting/Examples/Downloading responses from Goo" to "User Guide/User Guide/Scripting/Frontend Basics/Examples/Downloading responses from Goo"
+23:28:30.960 Updating attribute _help_DL92EjAaXT26_ldocName from "User Guide/User Guide/Scripting/Examples/Using promoted attributes to c" to "User Guide/User Guide/Scripting/Frontend Basics/Examples/Using promoted attributes to c"
+23:28:30.963 Created new note '_help_SPirpZypehBG', branch '_help_CdNpE2pqjmI6__help_SPirpZypehBG' of type 'book', mime ''
+23:28:30.967 Created new note '_help_fZ2IGYFXjkEy', branch '_help_SPirpZypehBG__help_fZ2IGYFXjkEy' of type 'doc', mime ''
+23:28:30.968 Creating missing branch for note _help_GPERMystNGTB under parent _help_SPirpZypehBG.
+23:28:30.969 Removing unexpected branch for note '_help_GPERMystNGTB' from parent '_help_CdNpE2pqjmI6'
+23:28:30.969 Marking branches _help_CdNpE2pqjmI6__help_GPERMystNGTB as deleted
+23:28:30.970 Updating attribute _help_GPERMystNGTB_ldocName from "User Guide/User Guide/Scripting/Events" to "User Guide/User Guide/Scripting/Backend scripts/Events"
+23:28:30.970 Updating attribute _help_GLks18SNjxmC_liconClass from "bx bx-file" to "bx bx-code-curly"
+23:28:30.977 Created new note '_help_Fm0j45KqyHpU', branch '_help__help_Fm0j45KqyHpU' of type 'book', mime ''
+23:28:30.980 Created new note '_help_WFbFXrgnDyyU', branch '_help_Fm0j45KqyHpU__help_WFbFXrgnDyyU' of type 'doc', mime ''
+23:28:30.991 Created new note '_help_NcsmUYZRWEW4', branch '_help_Fm0j45KqyHpU__help_NcsmUYZRWEW4' of type 'doc', mime ''
+23:28:30.997 Marking branches _help__help_LMAv4Uy3Wk6J as deleted
+23:28:30.998 Deleting note '_help_LMAv4Uy3Wk6J'
+23:28:30.999 Marking attributes _help_LMAv4Uy3Wk6J_liconClass as deleted
+23:28:31.001 Marking notes _help_LMAv4Uy3Wk6J as deleted
+23:28:31.004 Trusted reverse proxy: false
+23:28:31.006 App HTTP server starting up at port 8080
+23:28:31.027 Listening on port 8080
+23:28:32.008 Updating attribute _help_Un4wj2Mak2Ky_ldocName from "User Guide/User Guide/Installation & Setup/Server Installation/Nix flake.clone" to "User Guide/User Guide/Installation & Setup/Desktop Installation/Nix flake"
+23:28:32.009 Updating attribute _help_Un4wj2Mak2Ky_liconClass from "bx bx-file" to "bx bxl-tux"
+23:28:32.011 Updating attribute _help_Un4wj2Mak2Ky_ldocName from "User Guide/User Guide/Installation & Setup/Desktop Installation/Nix flake" to "User Guide/User Guide/Installation & Setup/Server Installation/Nix flake.clone"
+23:28:32.012 Updating attribute _help_Un4wj2Mak2Ky_liconClass from "bx bxl-tux" to "bx bx-file"
+23:28:32.015 Updating attribute _help_ZjLYv08Rp3qC_ldocName from "User Guide/User Guide/Basic Concepts and Features/Navigation/Quick edit.clone" to "User Guide/User Guide/Basic Concepts and Features/UI Elements/Quick edit"
+23:28:32.017 Updating attribute _help_ZjLYv08Rp3qC_ldocName from "User Guide/User Guide/Basic Concepts and Features/UI Elements/Quick edit" to "User Guide/User Guide/Basic Concepts and Features/Navigation/Quick edit.clone"
+23:28:33.882 200 GET /api/health-check with 15 bytes took 8ms
+23:28:34.670 Table counts: notes: 518, revisions: 27, attachments: 19, branches: 540, attributes: 883, etapi_tokens: 2, blobs: 189
+23:28:34.696 All consistency checks passed with no errors detected (took 26ms)
+23:29:04.196 200 GET /api/health-check with 15 bytes took 1ms
+23:29:30.106 CSRF token generation: Successful
+23:29:30.675 404 GET /assets/v0.99.5/stylesheets/print.css
+23:29:31.072 Slow 200 GET /api/keyboard-actions with 21736 bytes took 29ms
+23:29:31.077 200 GET /api/options with 8992 bytes took 3ms
+23:29:31.081 200 GET /api/tree with 13280 bytes took 3ms
+23:29:31.088 200 GET /api/autocomplete/notesCount with 3 bytes took 1ms
+23:29:31.278 200 GET /api/options/locales with 1023 bytes took 3ms
+23:29:31.807 200 GET /api/script/widgets with 2829 bytes took 4ms
+23:29:31.991 200 POST /api/tree/load with 4895 bytes took 2ms
+23:29:33.420 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+23:29:33.435 200 POST /api/tree/load with 6745 bytes took 2ms
+23:29:33.439 200 GET /api/system-checks with 27 bytes took 2ms
+23:29:33.449 200 GET /api/sql/schema with 7987 bytes took 3ms
+23:29:33.453 200 GET /api/notes/uQkE4GuPTUnR/blob with 352 bytes took 3ms
+23:29:33.603 Slow 200 GET /api/recent-changes/undefined with 2 bytes took 10ms
+23:29:33.616 200 GET /api/note-map/uQkE4GuPTUnR/backlink-count with 11 bytes took 2ms
+23:29:33.617 JS Info: Creating new CKEditor
+23:29:33.620 200 POST /api/tree/load with 4700 bytes took 2ms
+23:29:33.630 200 GET /api/notes/uQkE4GuPTUnR/attachments with 2 bytes took 2ms
+23:29:33.638 200 POST /api/tree/load with 21718 bytes took 2ms
+23:29:33.778 200 GET /api/search/%23textSnippet with 2 bytes took 2ms
+23:29:33.800 200 POST /api/tree/load with 14734 bytes took 2ms
+23:29:34.076 200 GET /api/notes/root with 315 bytes took 1ms
+23:29:34.254 200 GET /api/notes/_template_text_snippet with 341 bytes took 1ms
+23:29:34.431 200 GET /api/notes/_template_list_view with 326 bytes took 1ms
+23:29:34.502 200 GET /api/health-check with 15 bytes took 2ms
+23:29:34.616 200 GET /api/notes/_template_grid_view with 326 bytes took 0ms
+23:29:34.796 200 GET /api/notes/_template_calendar with 324 bytes took 1ms
+23:29:34.978 200 GET /api/notes/_template_table with 318 bytes took 1ms
+23:29:35.158 200 GET /api/notes/_template_geo_map with 322 bytes took 1ms
+23:29:35.335 200 GET /api/notes/_template_board with 325 bytes took 1ms
+23:29:35.398 200 GET /api/script/startup with 2 bytes took 6ms
+23:29:35.513 200 GET /api/notes/_template_presentation with 332 bytes took 1ms
+23:29:35.695 200 GET /api/search-templates with 16 bytes took 3ms
+23:29:35.875 200 POST /api/tree/load with 5793 bytes took 2ms
+23:29:36.054 200 GET /api/notes/9BVdgdj9Kcyp with 332 bytes took 1ms
+23:29:39.657 JS Info: CKEditor state changed to ready
+23:29:39.691 304 GET /api/notes/uQkE4GuPTUnR/blob with 352 bytes took 2ms
+23:30:04.774 200 GET /api/health-check with 15 bytes took 1ms
+23:30:35.155 200 GET /api/health-check with 15 bytes took 2ms
+23:31:05.465 200 GET /api/health-check with 15 bytes took 1ms
+23:31:35.771 200 GET /api/health-check with 15 bytes took 2ms
+23:32:06.104 200 GET /api/health-check with 15 bytes took 1ms
+23:32:36.408 200 GET /api/health-check with 15 bytes took 2ms
+23:33:06.736 200 GET /api/health-check with 15 bytes took 2ms
+23:33:37.038 200 GET /api/health-check with 15 bytes took 1ms
+23:34:07.332 200 GET /api/health-check with 15 bytes took 3ms
+23:34:37.617 200 GET /api/health-check with 15 bytes took 2ms
+23:35:07.950 200 GET /api/health-check with 15 bytes took 2ms
+23:35:25.907 CSRF token generation: Successful
+23:35:26.586 404 GET /assets/v0.99.5/stylesheets/print.css
+23:35:27.132 200 GET /api/options with 8992 bytes took 2ms
+23:35:27.135 200 GET /api/autocomplete/notesCount with 3 bytes took 2ms
+23:35:27.155 Slow 200 GET /api/keyboard-actions with 21736 bytes took 19ms
+23:35:27.184 200 GET /api/tree with 13280 bytes took 1ms
+23:35:27.362 200 GET /api/options/locales with 1023 bytes took 1ms
+23:35:27.779 200 GET /api/script/widgets with 2829 bytes took 3ms
+23:35:27.976 200 POST /api/tree/load with 4895 bytes took 2ms
+23:35:29.132 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 6ms
+23:35:29.137 200 POST /api/tree/load with 6745 bytes took 3ms
+23:35:29.140 200 GET /api/system-checks with 27 bytes took 1ms
+23:35:29.146 200 GET /api/sql/schema with 7987 bytes took 2ms
+23:35:29.162 200 GET /api/notes/uQkE4GuPTUnR/blob with 352 bytes took 1ms
+23:35:29.213 200 GET /api/recent-changes/undefined with 2 bytes took 4ms
+23:35:29.220 200 POST /api/tree/load with 4700 bytes took 2ms
+23:35:29.250 200 GET /api/note-map/uQkE4GuPTUnR/backlink-count with 11 bytes took 2ms
+23:35:29.267 200 GET /api/notes/uQkE4GuPTUnR/attachments with 2 bytes took 2ms
+23:35:29.347 200 POST /api/tree/load with 21718 bytes took 3ms
+23:35:29.372 200 GET /api/search/%23textSnippet with 2 bytes took 2ms
+23:35:29.373 JS Info: Creating new CKEditor
+23:35:29.413 200 POST /api/tree/load with 14734 bytes took 2ms
+23:35:29.681 200 GET /api/notes/root with 315 bytes took 2ms
+23:35:29.876 200 GET /api/notes/_template_text_snippet with 341 bytes took 2ms
+23:35:30.078 200 GET /api/notes/_template_list_view with 326 bytes took 2ms
+23:35:30.267 200 GET /api/notes/_template_grid_view with 326 bytes took 1ms
+23:35:30.460 200 GET /api/notes/_template_calendar with 324 bytes took 3ms
+23:35:30.710 200 GET /api/notes/_template_table with 318 bytes took 2ms
+23:35:30.917 200 GET /api/notes/_template_geo_map with 322 bytes took 2ms
+23:35:31.107 200 GET /api/notes/_template_board with 325 bytes took 1ms
+23:35:31.138 200 GET /api/script/startup with 2 bytes took 5ms
+23:35:31.298 200 GET /api/notes/_template_presentation with 332 bytes took 1ms
+23:35:31.498 200 GET /api/search-templates with 16 bytes took 4ms
+23:35:31.694 200 POST /api/tree/load with 5793 bytes took 1ms
+23:35:31.888 200 GET /api/notes/9BVdgdj9Kcyp with 332 bytes took 2ms
+23:35:38.229 304 GET /api/notes/uQkE4GuPTUnR/blob with 352 bytes took 2ms
+23:35:38.236 JS Info: CKEditor state changed to ready
+23:35:38.286 200 GET /api/health-check with 15 bytes took 1ms
+23:36:08.572 200 GET /api/health-check with 15 bytes took 2ms
+23:36:38.868 200 GET /api/health-check with 15 bytes took 2ms
+23:37:09.201 200 GET /api/health-check with 15 bytes took 1ms
+23:37:39.504 200 GET /api/health-check with 15 bytes took 2ms
+23:38:09.824 200 GET /api/health-check with 15 bytes took 2ms
+23:38:40.168 200 GET /api/health-check with 15 bytes took 2ms
+23:39:10.487 200 GET /api/health-check with 15 bytes took 1ms
+23:39:40.807 200 GET /api/health-check with 15 bytes took 2ms
+23:40:11.117 200 GET /api/health-check with 15 bytes took 2ms
+23:40:41.401 200 GET /api/health-check with 15 bytes took 1ms
+23:41:11.705 200 GET /api/health-check with 15 bytes took 3ms
+23:41:42.028 200 GET /api/health-check with 15 bytes took 2ms
+23:42:12.326 200 GET /api/health-check with 15 bytes took 1ms
+23:42:38.473 CSRF token generation: Successful
+23:42:39.813 304 GET /api/options with 8992 bytes took 3ms
+23:42:39.819 304 GET /api/tree with 13280 bytes took 2ms
+23:42:39.822 304 GET /api/autocomplete/notesCount with 3 bytes took 2ms
+23:42:39.840 Slow 304 GET /api/keyboard-actions with 21736 bytes took 17ms
+23:42:40.063 404 GET /assets/v0.99.5/stylesheets/print.css
+23:42:40.253 304 GET /api/options/locales with 1023 bytes took 1ms
+23:42:40.744 304 GET /api/script/widgets with 2829 bytes took 2ms
+23:42:41.181 200 POST /api/tree/load with 4895 bytes took 3ms
+23:42:41.811 304 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+23:42:41.815 200 POST /api/tree/load with 6745 bytes took 1ms
+23:42:41.817 304 GET /api/system-checks with 27 bytes took 1ms
+23:42:41.823 304 GET /api/sql/schema with 7987 bytes took 3ms
+23:42:41.843 304 GET /api/notes/uQkE4GuPTUnR/blob with 352 bytes took 1ms
+23:42:41.904 200 POST /api/tree/load with 4700 bytes took 2ms
+23:42:41.911 304 GET /api/recent-changes/undefined with 2 bytes took 6ms
+23:42:41.952 304 GET /api/note-map/uQkE4GuPTUnR/backlink-count with 11 bytes took 2ms
+23:42:41.956 304 GET /api/notes/uQkE4GuPTUnR/attachments with 2 bytes took 1ms
+23:42:42.257 200 POST /api/tree/load with 21718 bytes took 3ms
+23:42:42.269 JS Info: Creating new CKEditor
+23:42:42.283 304 GET /api/search/%23textSnippet with 2 bytes took 1ms
+23:42:42.349 200 POST /api/tree/load with 14734 bytes took 3ms
+23:42:42.601 200 GET /api/health-check with 15 bytes took 1ms
+23:42:42.820 304 GET /api/notes/root with 315 bytes took 1ms
+23:42:43.245 JS Info: CKEditor state changed to ready
+23:42:43.667 304 GET /api/notes/_template_text_snippet with 341 bytes took 1ms
+23:42:43.810 304 GET /api/script/startup with 2 bytes took 2ms
+23:42:44.099 304 GET /api/notes/_template_list_view with 326 bytes took 1ms
+23:42:44.530 304 GET /api/notes/_template_grid_view with 326 bytes took 1ms
+23:42:44.972 304 GET /api/notes/_template_calendar with 324 bytes took 2ms
+23:42:45.410 304 GET /api/notes/_template_table with 318 bytes took 2ms
+23:42:45.844 304 GET /api/notes/_template_geo_map with 322 bytes took 2ms
+23:42:46.277 304 GET /api/notes/_template_board with 325 bytes took 1ms
+23:42:46.566 304 GET /api/notes/_template_presentation with 332 bytes took 1ms
+23:42:46.861 304 GET /api/search-templates with 16 bytes took 2ms
+23:42:47.147 200 POST /api/tree/load with 5793 bytes took 1ms
+23:42:47.433 304 GET /api/notes/9BVdgdj9Kcyp with 332 bytes took 2ms
+23:43:12.932 200 GET /api/health-check with 15 bytes took 2ms
+23:43:43.232 200 GET /api/health-check with 15 bytes took 2ms
+23:44:13.566 200 GET /api/health-check with 15 bytes took 2ms
+23:44:43.853 200 GET /api/health-check with 15 bytes took 2ms
+23:45:14.187 200 GET /api/health-check with 15 bytes took 3ms
+23:45:44.482 200 GET /api/health-check with 15 bytes took 2ms
+23:46:14.757 200 GET /api/health-check with 15 bytes took 2ms
+23:46:45.031 200 GET /api/health-check with 15 bytes took 1ms
+23:47:15.356 200 GET /api/health-check with 15 bytes took 2ms
+23:47:45.666 200 GET /api/health-check with 15 bytes took 3ms
+23:48:15.979 200 GET /api/health-check with 15 bytes took 2ms
+23:48:46.302 200 GET /api/health-check with 15 bytes took 2ms
+23:49:16.595 200 GET /api/health-check with 15 bytes took 3ms
+23:49:46.901 200 GET /api/health-check with 15 bytes took 1ms
+23:50:17.203 200 GET /api/health-check with 15 bytes took 2ms
+23:50:47.507 200 GET /api/health-check with 15 bytes took 2ms
+23:51:17.821 200 GET /api/health-check with 15 bytes took 1ms
+23:51:48.132 200 GET /api/health-check with 15 bytes took 1ms
+23:52:18.439 200 GET /api/health-check with 15 bytes took 5ms
+23:52:48.723 200 GET /api/health-check with 15 bytes took 2ms
+23:53:19.037 200 GET /api/health-check with 15 bytes took 2ms
+23:53:49.318 200 GET /api/health-check with 15 bytes took 3ms
+23:54:19.611 200 GET /api/health-check with 15 bytes took 2ms
+23:54:49.958 200 GET /api/health-check with 15 bytes took 3ms
+23:55:20.242 200 GET /api/health-check with 15 bytes took 2ms
+23:55:50.531 200 GET /api/health-check with 15 bytes took 2ms
+23:56:20.836 200 GET /api/health-check with 15 bytes took 2ms
+23:56:51.169 200 GET /api/health-check with 15 bytes took 2ms
+23:57:21.463 200 GET /api/health-check with 15 bytes took 2ms
+23:57:51.738 200 GET /api/health-check with 15 bytes took 1ms
+23:58:22.016 200 GET /api/health-check with 15 bytes took 2ms
+23:58:52.314 200 GET /api/health-check with 15 bytes took 1ms
+23:59:22.630 200 GET /api/health-check with 15 bytes took 3ms
+23:59:52.939 200 GET /api/health-check with 15 bytes took 1ms
